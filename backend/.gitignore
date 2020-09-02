@@ -11,3 +11,4 @@
 temp_*
 !sample.csv
 node_modules/
+/package-lock.json
