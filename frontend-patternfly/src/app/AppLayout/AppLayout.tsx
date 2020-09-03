@@ -35,7 +35,7 @@ const AppLayout: React.FunctionComponent<IAppLayout> = ({children}) => {
   };
   const Header = (
     <PageHeader
-      logo="Patternfly"
+      logo="Ministerio de Transportes y Comunicaciones"
       logoProps={logoProps}
       showNavToggle
       isNavOpen={isNavOpen}
