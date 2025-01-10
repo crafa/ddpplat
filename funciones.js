@@ -1,4 +1,4 @@
-var serverJson = "http://localhost:3000/api";
+var serverJson = "https://931b-38-255-108-207.ngrok-free.app/api";
 
 $(document).ready(function(){
    $("#selectProyecto").select2();
