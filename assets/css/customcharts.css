@@ -1,0 +1,16 @@
+@import 'https://fonts.googleapis.com/css?family=Unica+One';
+
+/* Credits */
+.highcharts-credits {
+  display: none;
+  cursor: pointer;
+  fill: #666;
+  font-size: 0.7em;
+  transition: fill 250ms, font-size 250ms;
+}
+
+.highcharts-credits:hover {
+  fill: black;
+  font-size: 1em;
+}
+
